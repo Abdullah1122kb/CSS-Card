@@ -1,0 +1,68 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.356);;
+}
+
+.card{
+    width: 344px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    padding: 6px;
+    padding-bottom: 30px;
+    }
+
+    img{
+        width: 333px;
+        height: 222px;
+        padding: 5px;
+        border: none;
+        border-radius: 10px;
+    }
+
+    span{
+        color: rgba(71, 71, 71, 0.747);
+        padding: 5px;
+     padding: 3px 7px;
+        border: 1px solid rgba(128, 128, 128, 0.397);
+        border-radius: 20px;
+        font-size: 12px;
+        text-align: center;
+    
+    }
+
+    .caps{
+        padding-left: 7px;
+        margin-top: 7px;
+    }
+
+
+    .cont{
+        padding: 7px;
+    }
+
+    .cont p{
+        color: rgba(80, 92, 100, 0.795);
+        line-height: 25px;
+    }
+
+
+.more{
+    text-align: center;
+}
+
+button{
+    color: rgb(56, 122, 245);
+    background-color: rgba(189, 210, 250, 0.527);
+    padding: 14px;
+    border-radius: 19px;
+    border: none;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
